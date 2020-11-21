@@ -4,7 +4,7 @@ I'm Ben. I am a web developer emerging from the adventure tourism industry. For 
 
 ---
 
-- 🔭  _Currently working on:_ a tool to create crossword puzzles.
+- 🔭  _Currently working on:_ a tool to create [crossword puzzles](https://github.com/TopSecretShh/x-word).
 - 🌱  _Currently learning:_ React hooks.
 - 💬  _Ask me about:_ octopus! Their brains aren't where you would think and they have more hearts than elephants have ears.
 - ⚡ _Fun fact:_ As if the wild-but-true octopus facts aren't enough: while humans have three photoreceptors (and see three primary colors), mantis shrimp have between 12 and 16 photoreceptors and can also see ultraviolet light!
